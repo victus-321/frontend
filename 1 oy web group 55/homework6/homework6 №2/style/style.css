@@ -1,0 +1,308 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.insure{
+    margin-left: 150px;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+
+.viktus{
+   color:  gray; 
+ 
+   list-style: none;
+   margin-left: 750px;
+   margin-top: -20px;
+   font-family: sans-serif;
+}
+.viktus0{
+color: gray;
+list-style: none;
+margin-left: 900px;
+margin-top: -18.8px;
+font-family: sans-serif;
+}
+
+.viktus1{
+color: gray;
+list-style: none;
+margin-left: 970px;
+margin-top: -18.8px;
+font-family: sans-serif;
+}
+
+.viktus2{
+    list-style: none;
+    margin-left: 1080px;
+    font-family: sans-serif;
+    margin-top: -29px;
+    border: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.fon{
+    border: solid;
+    background: rgb(37, 37, 62);
+    border-color:rgb(37, 37, 62); ;
+margin-top: 30px;
+
+}
+.rtx{
+color: aliceblue;
+list-style: none;
+}
+.buy{
+    padding-top: 60px;
+    padding-left: 150px;
+}
+.buy1{
+padding-left: 150px;
+padding-top: 50px;
+font-size: 60px;
+}
+.buy2{
+padding-left: 150px;
+padding-top: 10px;
+}
+.buy3{
+    padding-left: 150px;
+padding-top: 5px;
+}
+.buy4{
+    padding-left: 150px;
+padding-top: 5px;
+}
+
+.viktus3{
+font-family: sans-serif;
+margin-left: 150px;
+margin-bottom: 150px;
+margin-top: 50px;
+border: solid;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-left: 20px;
+padding-right: 20px;
+display: inline-block;
+}
+.photo{
+    margin-left: 750px;
+    margin-top: -480px;
+}
+.photo2{
+margin-top: -350px;
+}
+.liniya{
+    list-style: none;
+    font-weight: 900px;
+    margin-left: 150px;
+    margin-top: -60px;
+    color:darkmagenta ;
+}
+.main{
+    margin-left: 150px;
+    list-style: none;
+    font-size: 58px;
+    font-weight: 600;
+} 
+.text1{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 150px;
+    }
+    .text2{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 100px;
+    }
+    .text3{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 100px;
+    }
+    .text{
+    margin-left: 212px;
+    
+    }
+    .chevrolet1{
+    font-family: sans-serif;
+    list-style: none;
+    color: grey;
+    margin-top: 5px;
+    }
+    .mustang1{
+    font-family: sans-serif;
+    list-style: none;
+    color: grey;
+    margin-top: 5px;
+    }
+    .tesla1{
+    font-family: sans-serif;
+    list-style: none;
+    color: grey;
+    margin-top: 5px;
+    }
+ .chevrolet{
+    color: black;
+    list-style: none;
+    font-size: 30px;
+ }   
+ .mustang{
+    color: black;
+    list-style: none;
+    font-size: 30px;
+ }
+ .tesla{
+    color: black;
+    list-style: none;
+    font-size: 30px;
+ }
+ 
+ 
+ .BMW{
+    border-style: solid;
+    margin-top: 50px;
+    margin:  100px 150px 0px 210px;
+    background-color: rgb(37, 37, 62);
+    
+    }
+
+    
+    .bmw1{
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 50px;
+    list-style: none;
+    margin-top: 80px;
+    margin-left: 90px;
+    width: 50%;
+    color: whitesmoke;
+    
+    }
+    .bmw2{
+    display: inline;
+        border-style: solid;
+        font-size: 12px;
+        font-weight: 600;
+        color: whitesmoke;
+        padding: 9px 30px 9px 30px;
+        letter-spacing: 1px;
+     margin-left: 909px;
+    margin-top: 100px;
+    }
+    .rasm1{
+        margin-left: 722px;
+        margin-top: -210px;
+        }
+        
+            
+            
+        
+            
+            
+            
+            .chevrolet{
+            margin-right: 10px;
+            
+            }
+            .honda{
+            margin-left: 210px;
+            margin-right: 840px;
+            
+            }
+            .audi{
+            margin: 0px 210px 0px 210px ;
+            list-style: none;
+            color: grey;
+            }
+            .maybach{
+            margin-top: 30px;
+            display: inline-block;
+            margin-left: 210px;
+            }
+
+            .volvo{
+            list-style: none;
+            display: inline-block;
+            margin-right: 200px;
+            font-family: sans-serif;
+            font-weight: 600;
+            }
+
+            .ford{
+            font-size: 14px;
+            color: black;
+            }
+            .lexus{
+            color: grey;
+            font-size: 13px;
+            margin-top: 10px;
+            }
+            
+            .mclaren{
+                list-style: none;
+                display: inline-block;
+                margin-right: 200px;
+                font-family: sans-serif;
+                font-weight: 600;
+            
+            }
+            .prado{
+                list-style: none;
+                display: inline-block;
+                margin-right: 200px;
+                font-family: sans-serif;
+                font-weight: 600;
+            
+            }
+            .land-rover{
+                list-style: none;
+                display: inline-block;
+                margin-right: 200px;
+                font-family: sans-serif;
+                font-weight: 600;
+            
+            
+            }
+            .footer{
+            padding-top: 22px;
+                border-style: solid;
+                background-color: whitesmoke;
+                border-color: whitesmoke;
+                }
+            
+   .jaguar{
+    font-size: 14px;
+    color: black;
+   }         
+   .lada{
+    color: grey;
+            font-size: 13px;
+            margin-top: 10px;
+   }
+     .bentley{
+        font-size: 14px;
+    color: black;
+     }      
+        .jeep{
+            color: grey;
+            font-size: 13px;
+            margin-top: 10px;   
+        }    
+    .aston-martin{
+        font-size: 14px;
+    color: black;  
+    }
+    .dodge{
+        color: grey;
+        font-size: 13px;
+        margin-top: 10px; 
+    }
+       
+            
+            

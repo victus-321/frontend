@@ -1,0 +1,549 @@
+*{
+    margin: 5px;
+    padding: 0;
+    list-style-type: none;
+}
+
+.box{
+  background-color: whitesmoke;
+  border-style: solid;
+ width: 1892px;
+ margin-left: -10px;
+ margin-top: -10px;
+ height: 420px;
+  border-color: whitesmoke;
+  padding-bottom: 20px;
+}
+
+.namangan{
+  list-style-type: none;
+  position: absolute;
+  width: 320px;
+  height: 35px;
+  left: 120px;
+  top: 47px;
+  display: flex;
+  margin-left: 40px;
+
+  padding-right: 60px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: white;
+  box-shadow: 0px 2px 7px 0 rgba(202, 202, 202, 0.25);
+  border-radius: 5px;
+}
+
+.money{
+  display: flex;
+margin-left: 570px;
+  list-style-type: none;
+  margin-top: 55px;
+  font-size: 20px;
+  
+}
+.money1{
+  color: rgb(43, 43, 185);
+  font-weight: 900;
+  font-family: sans-serif;
+  
+}
+.money2{
+  color: gray;
+  margin-left: -0.5px;
+  font-weight: 500;
+  margin-top: 8px;
+}
+.money3{
+  margin-left: 25px;
+  color: rgb(43, 43, 185);
+  font-weight: 900;
+  font-family: sans-serif;
+}
+.money4{
+  color: gray;
+  margin-left: -0.5px;
+  font-weight: 500;
+  margin-top: 8px;
+}
+.money5{
+  margin-left: 25px;
+  color: rgb(43, 43, 185);
+  font-weight: 900; 
+  font-family: sans-serif;
+}
+.money6{
+  color: gray;
+  margin-left: -0.5px;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+.lupa{
+margin-top: -5px;
+  margin-left: 550px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: white;
+  border-color: white;
+padding-bottom: -20px;
+}
+.russ{
+  margin-top: -5px;
+margin-left: 20px;
+  border-style: solid;
+  padding-right: 35px;
+ padding-bottom: -10px;
+  border-radius: 5px;
+  background-color: white;
+  border-color: white;
+
+}
+.rus{
+margin-left: -38px;
+font-weight: 500;
+color: rgb(83, 83, 83);
+font-weight: 500;
+
+}
+.telegram{
+    margin-top: -5px;
+    margin-left: 30px;
+    border-style: solid;
+    padding-right: 125px;
+    padding-top: 5px;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: #1E96C8;
+    border-color: white;
+    
+}
+  
+.podpisatsya{
+  font-weight: 500;
+  margin-left: -130px;
+  color: white;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+
+.sport{
+  color: rgb(83, 83, 83);
+  list-style-type: none;
+  display: flex;
+  margin-left: 160px;
+  font-size: 23px;
+  margin-top: 35px;
+  border-style: solid;  
+ width: 1600px;
+margin-left: 150px; 
+padding-left: 20px; 
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: white;
+  border-color: white;
+  border-radius: 10px;
+font-family: sans-serif;
+font-weight: 600;
+margin-right: 145px;
+}
+
+
+
+
+.mir{
+  margin-left: 45px;
+}
+
+.ekonomika{
+  margin-left: 45px;
+}
+
+.politika{
+  margin-left: 45px;
+  color: #295091;
+}
+
+.obshestvo{
+  margin-left: 45px;
+}
+
+.texnologiya{
+  margin-left: 45px;
+}
+
+.spoort{
+  margin-left: 45px;
+}
+
+.kultura{
+  margin-left: 45px;
+}
+
+.pro{
+  margin-left: 45px;
+}
+.turizm{
+  margin-left: 45px;
+}
+
+.nrg{
+  list-style: none;
+  margin-top: 35px;
+  margin-left: 140px;
+}
+
+.text{
+    list-style: none;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 80px;
+    margin-left: 145px;
+    font-family: sans-serif;
+}
+
+
+.date{
+    margin-top: 15px;
+}
+
+
+.date-text{
+    font-size: 18px;
+    margin-left: 36px;
+    margin-top: -35px;
+    color: gray;
+}
+
+
+.prezident{
+    margin-top: 20px;
+}
+
+
+
+.text0-1{
+    font-size: 21px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.text1{
+    font-size: 21px;
+    margin-top: 30px; 
+    font-weight: 500;
+}
+
+.text2{
+    font-size: 21px;
+    margin-top:30px;  
+    font-weight: 500; 
+}
+
+.text3{
+    font-size: 21px;
+    margin-top: 30px; 
+    font-style: italic;
+}
+
+.text4{
+    font-size: 21px;
+    margin-top: 30px;  
+    font-weight: 500;     
+}
+
+.text5{
+    font-size: 21px;
+    margin-top: 30px;  
+    font-weight: 500; 
+}
+
+.text6{
+    font-size: 21px;
+    margin-top: 30px;  
+    font-weight: 500; 
+}
+
+.text7{
+    font-size: 21px;
+    margin-top: 30px;  
+    font-weight: 500; 
+}
+.with{
+    list-style: none;
+    margin-left: 1250px;
+    margin-top: -1400px;
+    border-style: none;
+    width:420px;
+background-color: whitesmoke;
+padding: 10px;
+}
+
+.victus{
+    
+    font-size: 25px;
+    font-weight: 600;  
+}
+
+.victus1{
+    font-size: 19px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.oclock4{
+margin-top: 20px;
+font-family: sans-serif;
+color: rgb(112, 107, 107);
+}
+
+.images{
+  margin-top: 25px;
+  margin-left: 0px;
+}
+
+.victus2{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.oclock5{
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: rgb(112, 107, 107);
+}
+
+.images1{
+  margin-top: 25px;
+  margin-left: 0px;
+}
+
+.victus3{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.oclock6{
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: rgb(112, 107, 107);
+}
+
+.images2{
+  margin-top: 25px;
+  margin-left: 0px;
+}
+
+.victus4{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.oclock7{
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: rgb(112, 107, 107);
+}
+
+.ucell{
+  margin-left: 1255px;
+  margin-top: 25px;
+}
+
+.xeshteg{
+    font-size: 21px;
+    margin-top: 50px;  
+    font-weight: 500px;   
+    color: #28508E;
+}
+
+
+.liniya{
+    margin-left: 155px;
+}
+
+.title{
+    list-style-type: none;
+    margin-left: 145px;
+    margin-top: 60px;
+}
+
+.title1{
+font-size: 28px;
+font-weight: 600;
+}
+  
+  .carantin{
+    margin-left: 520px;
+    margin-top: -323px;
+  }
+
+  .prezident2{
+    margin-left: -0px;
+  }
+  
+  .suv{
+    margin-left: 1040px;
+    margin-top: -332px;
+  }
+  
+  .text001{
+    font-size: 23px;
+    margin-left: 5px;
+    font-weight: 600;
+  }
+  
+  
+  
+  
+  .text002{
+    font-size: 23px;
+    margin-left: 528px;
+    font-weight: 600;
+  }
+  
+  .text2_2{
+    font-family: sans-serif;
+    color: rgb(88, 88, 88);
+    font-weight: 600;
+  margin-left: 530px;
+  margin-top: 15px;
+  }
+  
+  .text003{
+    font-size: 23px;
+    margin-left: 1055px;
+    font-weight: 600;
+  }
+  
+  .text3_3{
+    font-family: sans-serif;
+    color: rgb(88, 88, 88);
+    font-weight: 600;
+    margin-left: 1060px;
+    margin-top: 15px;
+  }
+  .information{
+    list-style: none;
+    margin-left: 130px;
+    margin-top: 30px;
+  }
+  
+  .namangan23{
+  
+    margin-top: -50px;
+    margin-left: 33px;
+  }
+  
+  .liniya15{
+    margin-top: 40px;
+  }
+  
+  .box5{
+    background-color:#295093;
+  padding-top: 15px;
+  margin-top: -25px;
+  margin-left: -9.6px;
+  width: 1903px;
+  height: 400px;
+  }
+  
+  .don{
+    color: white;
+    font-size: 21px;
+    margin-left: 580px;
+    margin-top: -30px;
+  }
+  
+  .telegram5{
+    margin-left: 1450px;
+    margin-top: -100px;
+  }
+  
+  .vector5{
+    margin-left: 1455px;
+    margin-top: -56px;
+  }
+  
+  .telegram6{
+  
+    margin-left: 1490px;
+    margin-top: -40px;
+  }
+  
+  
+  .information2{
+    color: white;
+  margin-top: 70px;
+  margin-left: 20px;
+  font-size: 20px;
+  }
+  
+  
+  .sayt3{
+    color: white;
+    margin-top: 70px;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  
+  .information3{
+    color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+  }
+  
+  .fish{
+  list-style-type: none;
+  margin-left: 800px;
+  margin-top: -250px;
+  color: white;
+  font-size: 20px;
+  }
+  .fish1{
+    margin-top: 10px;
+  }
+  
+  .fish2{
+    margin-top: 20px;
+  }
+  
+  .fish3{
+    margin-top: 20px;
+  }
+  
+  .fish4{
+    margin-top: 20px;
+  }
+  
+  .white{
+    list-style-type: none;
+  margin-left: 1200px;
+  
+  margin-top: -170px;
+  color: white;
+  font-size: 20px;
+  }
+  
+  .red{
+    margin-top: 20px;
+  }
+  
+  .green{
+    margin-top: 20px;
+  }
+  
+  .orange{
+    margin-top: 20px;
+  }
+  
+  
+  
+  
+  
+  
+  

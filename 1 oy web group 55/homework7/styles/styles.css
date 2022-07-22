@@ -1,0 +1,432 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sunnyside{
+    margin-left: 50px;
+    margin-top: 40px;
+    display: inline-block;
+
+}
+
+
+.viktus{
+   color: aliceblue; 
+ 
+   list-style: none;
+   margin-left: 990px;
+   margin-top: -25px;
+   font-family: sans-serif;
+   font-weight: 600;
+}
+.viktus0{
+color: aliceblue;
+list-style: none;
+margin-left: 1085px;
+margin-top: -18.1px;
+font-family: sans-serif;
+font-weight: 600;
+}
+
+.viktus1{
+color: aliceblue;
+list-style: none;
+margin-left: 1195px;
+margin-top: -18.4px;
+font-family: sans-serif;
+font-weight: 600;
+}
+
+.viktus2{
+    list-style: none;
+    color: aliceblue;
+    margin-left: 1300px;
+    font-family: sans-serif;
+    margin-top: -35px;
+    border: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px ;
+    padding-bottom : 12px;
+    border-radius: 30px;
+    font-weight: 600;
+    background-color:rgb(130, 220, 250);
+border-color:rgb(130, 220, 250) ;
+}
+
+.strelka{
+   
+
+        margin-top: -211px;
+        
+          
+     
+        
+
+}
+
+.creative{
+    margin-top: 140px;
+    color: aliceblue;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 900;
+    font-family: sans-serif;
+    
+    }
+.header{
+margin-top: -5px;
+margin-left: 30px;
+}
+.egg{
+    margin-left: 775px;
+    margin-top: -10px;
+  
+}
+.title{
+margin-top: -624PX;
+list-style-type: none;
+border-style: solid;
+padding-top: 150px;
+padding-left: 150px;
+padding-bottom: 316px;
+background-color: white;
+border-color: white;
+
+
+}
+.brand{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+.full{
+    color: gray;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.clients{
+    color: gray;
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-top: 5px;  
+    font-weight: 600;
+}
+.visuals{
+    color: gray;
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-top: 5px;  
+    font-weight: 600;
+}
+.learn{
+    text-decoration: underline gold;
+    margin-top: 50px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+} 
+.photo{
+    margin-top: -133px;
+
+}
+
+.stand{
+margin-left: 775px;
+margin-top: -650PX;
+list-style-type: none;
+border-style: solid;
+padding-top: 150px;
+padding-left: 150px;
+padding-bottom: 158px;
+background-color: white;
+border-color: white;
+}
+.right{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+.design{
+    color: gray;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 600; 
+}
+.and{
+    color: gray;
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-top: 5px;  
+    font-weight: 600;
+}
+.build{
+    color: gray;
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-top: 5px;  
+    font-weight: 600; 
+}
+.learn2{
+    text-decoration: underline red;
+    margin-top: 100px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.deliver{
+margin-left: 270px;
+list-style: none;
+margin-top: -220px;
+color: rgb(7, 68, 7);
+font-family: sans-serif;
+
+}
+.graphic{
+font-size: 30px;
+font-family: sans-serif;
+font-weight: 700;
+}
+.good{
+    margin-top: 25px;
+    font-size: 20px;
+    margin-left: -55px;
+    font-weight: 600;
+}
+.message{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: -55px;
+    font-weight: 600;
+}
+.captures{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: -30px;
+    font-weight: 600;
+}
+.class{
+    background-color:rgb(75, 189, 255);
+}
+.photography{
+    margin-left: 775px;
+    margin-top: -568.3px;
+    
+}
+
+.text100{
+margin-left: 1070px;
+list-style-type: none;
+margin-top: -220px;
+color: rgb(15, 53, 91);
+font-family: sans-serif;
+}
+.text0{
+    font-size: 30px;
+font-family: sans-serif;
+font-weight: 700;
+}
+.text01{
+    margin-top: 25px;
+    font-size: 20px;
+    margin-left: -65px;
+    font-weight: 600;
+}
+.text02{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: -83px;
+    font-weight: 600;   
+}
+.text03{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: 57px;
+    font-weight: 600;
+}
+.text010{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 155px;
+    margin-bottom: 99px;
+    font-size: 25px;
+    font-weight: bold;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    color: grey;
+    
+}
+.images-com{
+    border-radius: 100px;
+    width: 111px;
+}
+
+.content{
+    justify-content: space-around;
+flex-direction: row;
+   display: flex;
+align-items: baseline;
+
+}
+
+
+.text{
+    margin-left: 50px;
+ border-radius: 300px;
+}
+.bmw{
+    list-style: none;
+    font-family: sans-serif;
+color: grey;
+}
+.bmw1{
+    font-size: 20px;
+    margin-top: 25px;
+    font-size: 20px;
+    margin-left: -65px;
+    font-weight: 600;
+}
+.bmw2{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: -83px;
+    font-weight: 600; 
+}
+.bmw3{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: -20px;
+    font-weight: 600;
+}
+.bmw4{
+    color: black;
+    font-weight: 800;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.bmw5{
+    color: rgb(173, 170, 170);
+margin-top: 15px;
+margin-left: 40px;
+}
+.mustang{
+    list-style: none;
+    font-family: sans-serif;
+color: grey;
+margin-left: 20px;
+}
+.mustang1{
+    font-size: 20px;
+    margin-top: 25px;
+    font-size: 20px;
+    margin-left: -65px;
+    font-weight: 600;
+}
+.mustang2{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: -83px;
+    font-weight: 600; 
+}
+.mustang3{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: -20px;
+    font-weight: 600;
+}
+.mustang4{
+    color: black;
+    font-weight: 800;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.mustang5{
+    color: rgb(173, 170, 170);
+margin-top: 15px;
+margin-left: 40px;
+}
+.mers{
+    list-style: none;
+    font-family: sans-serif;
+color: grey;
+}
+.mers1{
+    font-size: 20px;
+    margin-top: 25px;
+    font-size: 20px;
+    margin-left: -65px;
+    font-weight: 600;
+}
+.mers2{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: -83px;
+    font-weight: 600; 
+}
+.mers3{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: -20px;
+    font-weight: 600;
+}
+.mers4{
+    color: black;
+    font-weight: 800;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.mers5{
+    color: rgb(173, 170, 170);
+
+margin-left: 55px;
+font-weight: 500;
+font-size: 18px;
+margin-top: 15px;
+}
+
+
+
+.prado{
+
+    margin: 177px 70px 0px 70px;
+    }
+    .tayota{
+    margin-right: -5px;
+        width: 346.8px;
+    }
+    .lamborghini{
+         margin: 0px 65px 70px 70px;
+    margin-top: -5px;
+    background-color: #90D4C5;
+    }
+    .aston-martin{
+    margin-left: 679px;
+    margin-top: 55px;
+    }
+    .audi{
+    list-style: none;
+    display: flex;
+    color: #29584E;
+    justify-content: center;
+    margin-left: 140px;
+    }
+    .chevrolet{
+        text-align: center;
+        margin-top: 33px;
+    margin-right: 50px;
+    margin-bottom: 70px;
+    
+    }
+    .camaro{
+    margin-left: 640px;
+    display: flex;
+    }
+    .McLaren{
+    margin-right: 40px;
+    margin-bottom: 50px;
+    }
+ 

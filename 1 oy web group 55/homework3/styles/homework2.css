@@ -1,0 +1,55 @@
+.personal{
+    text-align: center;
+    border: 5px;
+    border-radius: 5px;
+    border-style: solid;
+
+    height: auto;
+    width: auto;
+}
+
+.team{
+    text-align: center;
+    border: 5px;
+    border-radius: 5px;
+    border-style: solid;
+    height: auto;
+    width:auto;
+}
+
+.CORPORATE{
+    text-align: center;
+    border: 5px;
+    border-radius: 5px;
+    border-style: solid;
+    height: auto;
+    width: auto;
+}
+
+.team1{
+    color: darkgreen;
+}
+
+.personal1{
+    color: darkgreen;
+}
+
+
+.Corporate1{
+    color: darkgreen;
+}
+
+
+.personal2{
+    color: chocolate;
+}
+
+
+
+.team2{
+    color: turquoise;
+}
+
+
+.corporate2{
+    color: cornflowerblue;

@@ -1,0 +1,531 @@
+*{
+    margin: 5px;
+    padding: 0;
+    list-style-type: none;
+}
+
+.box{
+  background-color: whitesmoke;
+  border-style: solid;
+ width: 1892px;
+ margin-left: -10px;
+ margin-top: -10px;
+ 
+  border-color: whitesmoke;
+  padding-bottom: 20px;
+}
+
+.namangan{
+  list-style-type: none;
+  position: absolute;
+  width: 320px;
+  height: 35px;
+  left: 120px;
+  top: 47px;
+  display: flex;
+  margin-left: 40px;
+
+  padding-right: 60px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: white;
+  box-shadow: 0px 2px 7px 0 rgba(202, 202, 202, 0.25);
+  border-radius: 5px;
+}
+
+.money{
+  display: flex;
+margin-left: 570px;
+  list-style-type: none;
+  margin-top: 55px;
+  font-size: 20px;
+  
+}
+.money1{
+  color: rgb(43, 43, 185);
+  font-weight: 900;
+  font-family: sans-serif;
+  
+}
+.money2{
+  color: gray;
+  margin-left: -0.5px;
+  font-weight: 500;
+  margin-top: 7px;
+}
+.money3{
+  margin-left: 25px;
+  color: rgb(43, 43, 185);
+  font-weight: 900;
+  font-family: sans-serif;
+}
+.money4{
+  color: gray;
+  margin-left: -0.5px;
+  font-weight: 500;
+  margin-top: 7px;
+}
+.money5{
+  margin-left: 25px;
+  color: rgb(43, 43, 185);
+  font-weight: 900; 
+  font-family: sans-serif;
+}
+.money6{
+  color: gray;
+  margin-left: -0.5px;
+  font-weight: 500;
+  margin-top: 7px;
+}
+
+.lupa{
+margin-top: -5px;
+  margin-left: 550px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: white;
+  border-color: white;
+padding-bottom: -20px;
+}
+.russ{
+  margin-top: -5px;
+margin-left: 20px;
+  border-style: solid;
+  padding-right: 35px;
+ padding-bottom: -10px;
+  border-radius: 5px;
+  background-color: white;
+  border-color: white;
+
+}
+.rus{
+margin-left: -38px;
+font-weight: 500;
+color: rgb(83, 83, 83);
+font-weight: 500;
+
+}
+.telegram{
+    margin-top: -5px;
+    margin-left: 30px;
+    border-style: solid;
+    padding-right: 125px;
+    padding-top: 5px;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: #1E96C8;
+    border-color: white;
+    cursor: pointer;
+}
+  
+.podpisatsya{
+  font-weight: 500;
+  margin-left: -130px;
+  color: white;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+
+.sport{
+  color: rgb(83, 83, 83);
+  list-style-type: none;
+  display: flex;
+  margin-left: 160px;
+  font-size: 23px;
+  margin-top: 35px;
+  border-style: solid;  
+ width: 1600px;
+margin-left: 150px; 
+padding-left: 20px; 
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: white;
+  border-color: white;
+  border-radius: 10px;
+font-family: sans-serif;
+font-weight: 600;
+margin-right: 145px;
+}
+
+
+
+
+.mir{
+  margin-left: 45px;
+}
+
+.ekonomika{
+  margin-left: 45px;
+}
+
+.politika{
+  margin-left: 45px;
+}
+
+.obshestvo{
+  margin-left: 45px;
+}
+
+.texnologiya{
+  margin-left: 45px;
+}
+
+.spoort{
+  margin-left: 45px;
+}
+
+.kultura{
+  margin-left: 45px;
+}
+
+.pro{
+  margin-left: 45px;
+}
+.turizm{
+  margin-left: 45px;
+}
+
+.nrg{
+  list-style: none;
+  margin-top: 35px;
+  margin-left: 140px;
+}
+
+.text000{
+    margin-left: 140px;
+    margin-top: 50px;
+font-weight: 700;
+
+
+}
+
+.form{
+    display: flex;
+flex-direction: column;
+width: 40%;
+margin-top: 20px;
+margin-left: 130px;
+}
+
+.name{
+    width: 700px;
+   height: 50px;
+   font-size: 18px;
+   padding-left: 20px;
+   border-radius: 5px;
+   border-color: black;
+}
+
+.email{
+    width: 700px;
+    height: 50px;
+    font-size: 18px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.number{
+    width: 700px;
+   height: 50px;
+   font-size: 18px;
+   padding-left: 20px;
+   border-radius: 5px;
+border-color: black;
+}
+
+.thema{
+    width: 700px;
+   height: 50px;
+   font-size: 18px;
+   padding-left: 20px;
+   border-radius: 5px;
+   border-color: black;
+}
+
+.text{
+    width: 700px;
+
+   font-size: 18px;
+   padding-left: 20px;
+   border-radius: 5px;
+border-color: black;
+padding-top: 15px;
+padding-bottom: 300px;
+}
+
+.file{
+    width: 200px;
+    height: 50px;
+    font-size: 18px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.frame{
+    margin-left: 100px;
+margin-top: -35px;
+}
+
+.kod{
+    width: 200px;
+    height: 50px;
+    font-size: 18px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border-color: black;
+    margin-top: 20px;
+}
+
+
+.kod1{
+    margin-left: 260px;
+    font-size: 25px;
+    margin-top: -50px;
+    font-weight: 700;
+}
+
+.otpravit{
+    border: solid;
+    width: 170px;
+    height: 40px;
+    font-size: 18px;
+    padding-left: 50px;
+    padding-top: 10px;
+    border-radius: 5px;
+    border-color: black;
+    margin-top: -60px;
+    margin-left: 15px;
+    font-size: 20px;
+    background-color: #295093;
+    border-color: #295093;
+    color: white;
+cursor: pointer;
+}
+
+
+.namangan22{
+    list-style-type: none;
+    margin-left: 1100px;
+    border-style: solid;
+    width: 330px;
+    border-color: black;
+    margin-top: -850px;
+    padding-left: 320px;
+    margin-right: 100px;
+    border-color: #BCC3CD;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+box-shadow: -20px 15px 5px 0px #BCC3CD;
+font-family: sans-serif;
+}
+
+.pochta{
+    font-size: 23px;
+    margin-left: -290px;
+    font-family: sans-serif;
+color: gray;
+margin-top: 20px;
+}
+
+.namangan15{
+    margin-top: -32px;
+    margin-left: 30px;
+}
+
+
+.set{
+    font-size: 23px;
+    margin-left: -290px;
+    font-family: sans-serif;
+color: gray;
+margin-top: 50px;  
+}
+
+.facebook{
+    margin-top: -40px;
+    margin-left: 140px;
+}
+
+.twitter{
+    margin-top: -58px;
+    margin-left: 200px;
+}
+
+.odnoklasnik{
+    margin-top: -60px; 
+    margin-left: 260px; 
+}
+
+.telegram12{
+    font-size: 23px;
+    margin-left: -286px;
+    font-family: sans-serif;
+color: gray;
+margin-top: 50px;   
+}
+
+.telegram7{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: -40px;
+    margin-right: 20px;
+    border: solid;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    padding-left: 50px;
+    font-weight: 600;
+    color: white;
+    border-color: #295091;
+    background-color: #295091;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    cursor: pointer;
+}
+
+.telegram8{
+    margin-left: 110px;
+    margin-top: -50px;
+    cursor: pointer;
+}
+
+
+.telegram9{
+    font-size: 23px;
+    margin-left: -286px;
+    font-family: sans-serif;
+color: gray;
+margin-top: 50px;    
+}
+
+.google{
+    margin-top: -45px;
+}
+
+.appstore{
+    margin-left: 170px;
+    margin-top: -62px;
+}
+
+
+.box5{
+    background-color:#295093;
+  padding-top: 15px;
+  margin-top: 505px;
+  margin-left: -15px;
+  width: 1903px;
+  height: 400px;
+  }
+  
+  .information{
+    list-style: none;
+    margin-left: 130px;
+    margin-top: 30px;
+  }
+  
+  .namangan23{
+  
+    margin-top: -50px;
+    margin-left: 33px;
+  }
+  
+  .liniya15{
+    margin-top: 40px;
+  }
+
+  .don{
+    color: white;
+    font-size: 21px;
+    margin-left: 580px;
+    margin-top: -20px;
+  }
+  
+  .telegram5{
+    margin-left: 1450px;
+    margin-top: -100px;
+  }
+  
+  .vector5{
+    margin-left: 1455px;
+    margin-top: -56px;
+  }
+  
+  .telegram6{
+  
+    margin-left: 1490px;
+    margin-top: -40px;
+  }
+  
+  
+  .information2{
+    color: white;
+  margin-top: 70px;
+  margin-left: 20px;
+  font-size: 20px;
+  }
+  
+  
+  .sayt3{
+    color: white;
+    margin-top: 70px;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  
+  .information3{
+    color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+  }
+  
+  .fish{
+  list-style-type: none;
+  margin-left: 800px;
+  margin-top: -250px;
+  color: white;
+  font-size: 20px;
+  }
+  .fish1{
+    margin-top: 10px;
+  }
+  
+  .fish2{
+    margin-top: 20px;
+  }
+  
+  .fish3{
+    margin-top: 20px;
+  }
+  
+  .fish4{
+    margin-top: 20px;
+  }
+  
+  .white{
+    list-style-type: none;
+  margin-left: 1200px;
+  
+  margin-top: -170px;
+  color: white;
+  font-size: 20px;
+  }
+  
+  .red{
+    margin-top: 20px;
+  }
+  
+  .green{
+    margin-top: 20px;
+  }
+  
+  .orange{
+    margin-top: 20px;
+  }
+  

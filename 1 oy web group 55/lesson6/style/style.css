@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+.card{
+    width: 300px;
+height: 300px;
+background-color: red;
+margin: 100px auto;
+box-shadow: inset;
+border-radius: 30px;
+transition: all 1s ease;
+
+
+}
+
+.card:hover{
+
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    box-shadow: 20px 20px 2px 0 grey ; 
+    box-shadow: inset;
+}
+
+.card:active{
+    background: lawngreen;
+}

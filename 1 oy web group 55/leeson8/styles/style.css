@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 40px;
+    margin-top: 20px;
+    background-color: gray;
+    padding: 20px;
+}
+
+
+.form input{
+width: 120px;
+margin: 4px 30px;
+}
+#age{
+    width: 120px;
+    margin: 4px 0 0 70px;
+}
+
+
+
+
+
+

@@ -1,0 +1,127 @@
+*{
+    margin: 5px;
+    padding: auto;
+   list-style: none; 
+}
+
+
+.box{
+    margin: -50px 10px 0 890px;
+    display: flex;
+    word-spacing: 2px;
+ list-style-type: none;
+font-size: 20px;
+text-align: center;
+}
+
+.body{
+    color: gray;
+    margin-right: 22px;
+}
+
+
+
+
+.body2{
+color: black;
+list-style: none;
+font-size: 50px;
+font-weight: 700;
+margin-left: 150px;
+margin-top: -20px;
+}
+.photos{
+margin-left: 750px;
+margin-top: -300px;
+height: 550px; ;
+
+
+
+}
+
+.body3{ 
+    color: gray;
+    list-style: none;
+    margin-left: 150px;
+    font-weight: 900px;
+    font-size: 20px;
+}
+
+
+.tochka{
+    margin-left: -2;
+    height: 95px;
+}
+.trafalgar{
+margin-left: 200px;
+
+}
+    
+
+.consult{
+    border-style: solid;
+border-radius: 100px;
+color: white;
+display: inline-block;
+background-color: dodgerblue;
+border-color: dodgerblue;
+padding: 10px;
+padding-left: 27px;
+padding-right: 27px;
+margin-left: 214px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.services{
+text-align: center;
+font-size: 30px;
+list-style: none;
+font-weight:700;
+
+}
+
+.liniya{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: 400;
+    list-style: none;
+    
+}
+.title{
+    text-align: center;
+    list-style: none;
+    color: gray;
+}
+
+.lupa{
+    display: inline-block;
+    border-style: solid;
+    padding: 30px 150px 150px 30px;
+    border-color: black;
+    border-radius: 20px;
+    margin-top: -3px;
+    margin-left: 177px;
+    margin-bottom: 50px;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+}
+
+
+.dori1{
+    display: inline-block;
+border-style: solid;
+border-radius: 20px;
+list-style: none;
+padding: 1px 20px 60px 30px;
+margin-left: 30px;
+border-color: whitesmoke;
+background-color: whitesmoke;
+}
+
+
+
+
+
+
+
+

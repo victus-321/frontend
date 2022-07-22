@@ -1,0 +1,48 @@
+*{
+    margin: 8px;
+    padding: 0;
+}
+
+
+@font-face {
+  font-family: 'game-fonts' ;
+src: url("../fonts/fontku/Game\ Of\ Squids.otf");
+
+}
+
+
+.title{ 
+    font-family: 'game-fonts', sans-serif;
+    
+}
+
+.text{
+  font-family:sans-serif; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

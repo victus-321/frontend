@@ -1,0 +1,56 @@
+.Pro{
+    border-style: solid;
+background-color: bisque;
+color: brown;
+border-color: black;
+}
+
+.Premium{
+border-style: solid;
+background-color: darkgrey;
+color: brown;
+border-color: black;
+}
+
+.Platinum{
+border-style: solid;
+background-color:darksalmon;
+color: brown;
+border-color: black;
+}
+.money1{
+color: darkgreen;
+}
+
+.first{
+text-decoration: underline;
+color:dimgray;
+text-decoration-color: black
+}
+.second{
+    
+    text-decoration: underline;
+    color: dimgray;
+    text-decoration-color: black;
+}
+
+.footer{
+text-decoration: underline;
+color: dimgray;
+text-decoration-color: black;
+}
+
+.sarlavha{
+color: dimgray;
+}
+.text1{ 
+color: royalblue;
+}
+.text2{
+    color:gold
+}
+.text3{
+    color: greenyellow;
+}
+
+

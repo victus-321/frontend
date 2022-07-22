@@ -1,0 +1,964 @@
+*{
+    margin: 5px;
+    padding: 0;
+}
+
+.box{
+  background-color: whitesmoke;
+  border-style: solid;
+ width: 1892px;
+ margin-left: -10px;
+ margin-top: -10px;
+ 
+  border-color: whitesmoke;
+  padding-bottom: 20px;
+}
+
+.namangan{
+  list-style-type: none;
+  position: absolute;
+  width: 320px;
+  height: 35px;
+  left: 120px;
+  top: 47px;
+  display: flex;
+  margin-left: 40px;
+
+  padding-right: 60px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: white;
+  box-shadow: 0px 2px 7px 0 rgba(202, 202, 202, 0.25);
+  border-radius: 5px;
+}
+
+.money{
+  display: flex;
+margin-left: 570px;
+  list-style-type: none;
+  margin-top: 55px;
+  font-size: 20px;
+  
+}
+.money1{
+  color: rgb(43, 43, 185);
+  font-weight: 900;
+  font-family: sans-serif;
+  
+}
+.money2{
+  color: gray;
+  margin-left: -0.5px;
+  font-weight: 500;
+  margin-top: 7px;
+}
+.money3{
+  margin-left: 25px;
+  color: rgb(43, 43, 185);
+  font-weight: 900;
+  font-family: sans-serif;
+}
+.money4{
+  color: gray;
+  margin-left: -0.5px;
+  font-weight: 500;
+  margin-top: 7px;
+}
+.money5{
+  margin-left: 25px;
+  color: rgb(43, 43, 185);
+  font-weight: 900; 
+  font-family: sans-serif;
+}
+.money6{
+  color: gray;
+  margin-left: -0.5px;
+  font-weight: 500;
+  margin-top: 7px;
+}
+
+.lupa{
+margin-top: -5px;
+  margin-left: 550px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: white;
+  border-color: white;
+padding-bottom: -20px;
+}
+.russ{
+  margin-top: -5px;
+margin-left: 20px;
+  border-style: solid;
+  padding-right: 35px;
+ padding-bottom: -10px;
+  border-radius: 5px;
+  background-color: white;
+  border-color: white;
+
+}
+.rus{
+margin-left: -38px;
+font-weight: 500;
+color: rgb(83, 83, 83);
+font-weight: 500;
+
+}
+.telegram{
+    margin-top: -5px;
+    margin-left: 30px;
+    border-style: solid;
+    padding-right: 125px;
+    padding-top: 5px;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: #1E96C8;
+    border-color: white;
+    
+}
+  
+.podpisatsya{
+  font-weight: 500;
+  margin-left: -130px;
+  color: white;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+
+.sport{
+  color: rgb(83, 83, 83);
+  list-style-type: none;
+  display: flex;
+  margin-left: 160px;
+  font-size: 23px;
+  margin-top: 35px;
+  border-style: solid;  
+ width: 1600px;
+margin-left: 150px; 
+padding-left: 20px; 
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: white;
+  border-color: white;
+  border-radius: 10px;
+font-family: sans-serif;
+font-weight: 600;
+margin-right: 145px;
+}
+
+
+
+
+.mir{
+  margin-left: 45px;
+}
+
+.ekonomika{
+  margin-left: 45px;
+}
+
+.politika{
+  margin-left: 45px;
+}
+
+.obshestvo{
+  margin-left: 45px;
+}
+
+.texnologiya{
+  margin-left: 45px;
+}
+
+.spoort{
+  margin-left: 45px;
+}
+
+.kultura{
+  margin-left: 45px;
+}
+
+.pro{
+  margin-left: 45px;
+}
+.turizm{
+  margin-left: 45px;
+}
+
+.nrg{
+  list-style: none;
+  margin-top: 35px;
+  margin-left: 140px;
+}
+
+.koronavirus{
+  border-style: solid;
+  width: 1615px;
+  margin-top: 50px;
+  margin-left: 145px;
+  background-color: whitesmoke;
+border-color: whitesmoke;
+padding-bottom: 50px;
+list-style-type: none;
+}
+
+
+.virus{
+
+margin-top: 50px;
+margin-left: 50px;
+margin-bottom: 50px;
+}
+
+.covid19{
+
+  font-size: 27px;
+  margin-left: 150px;
+  margin-top: -120px;
+font-family: sans-serif;
+  font-weight: 600;
+}
+
+.liniya{
+
+  margin-left: 540px;
+  margin-top: -90px;
+}
+.maska{
+
+  margin-left: 580px;
+  margin-top: -93px;
+}
+
+.maska2{
+  margin-left: 670px;
+  font-family:sans-serif;
+  font-size: 27px;
+  font-weight: 500;
+  margin-top: -75px;
+  color: #DC1E1E;;
+}
+.number{
+  margin-left: 670px;
+  font-family: sans-serif;
+  font-size: 27px;
+  font-weight: 600;
+}
+
+.liniya2{
+  
+  margin-left: 930px;
+  margin-top: -83px;
+}
+
+.smile{
+  
+  margin-left: 970px;
+  margin-top: -83px;
+}
+
+.maska3{
+  margin-left: 1060px;
+  font-family:sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  margin-top: -75px;
+  color: #15CE3D;;
+}
+
+.number2{
+
+  margin-left: 1060px;
+  font-family: sans-serif;
+  font-size: 26px;
+  font-weight:600;
+}
+
+.liniya3{
+  margin-left: 1290px;
+  margin-top: -82px;
+}
+
+
+.vector{
+  margin-left: 1330px;
+  margin-top: -84px;
+
+}
+
+.maska4{
+  margin-left: 1420px;
+  font-family:sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  margin-top: -73px;
+}
+
+.number3{
+  margin-left: 1420px;
+  font-family: sans-serif;
+  font-size: 26px;
+  font-weight:600;
+}
+
+.photos{
+
+  list-style-type: none;
+  margin-top: 30px;
+  margin-left: 135px;
+ 
+}
+
+.carantin{
+  margin-left: 550px;
+  margin-top: -368px;
+}
+
+
+.suv{
+  margin-left: 1095px;
+  margin-top: -344px;
+}
+
+.text{
+  font-size: 23px;
+  margin-left: 15px;
+  font-weight: 600;
+}
+
+.text1_1{
+  margin-left: 15px;
+  margin-top: 15px;
+  font-family: sans-serif;
+  color: rgb(88, 88, 88);
+  font-weight: 600;
+
+}
+
+
+
+.text2{
+  font-size: 23px;
+  margin-left: 560px;
+  font-weight: 600;
+}
+
+.text2_2{
+  font-family: sans-serif;
+  color: rgb(88, 88, 88);
+  font-weight: 600;
+margin-left: 560px;
+margin-top: 15px;
+}
+
+
+
+
+
+.text3{
+  font-size: 23px;
+  margin-left: 1110px;
+  font-weight: 600;
+}
+
+.text3_3{
+  font-family: sans-serif;
+  color: rgb(88, 88, 88);
+  font-weight: 600;
+  margin-left: 1110px;
+  margin-top: 15px;
+}
+
+
+.hokim{
+  margin-top: 20px;
+}
+
+.text4{
+  font-size: 23px;
+  margin-left: 15px;
+  font-weight: 600;
+}
+
+.text4_4{
+  margin-left: 15px;
+  margin-top: 15px;
+  font-family: sans-serif;
+  color: rgb(88, 88, 88);
+  font-weight: 600;
+}
+
+.help{
+  margin-left: 550px;
+  margin-top: -370px;
+}
+
+
+.text5{
+  font-size: 23px;
+  margin-left: 560px;
+  font-weight: 600;
+}
+
+.text5_5{
+  font-family: sans-serif;
+  color: rgb(88, 88, 88);
+  font-weight: 600;
+margin-left: 560px;
+margin-top: 15px;
+}
+
+.stop{
+  font-size: 23px;
+  margin-left: 1095px;
+  font-weight: 600;
+  margin-top: -343px;
+}
+
+.text6{
+  font-size: 23px;
+  margin-left: 1110px;
+  font-weight: 600;
+}
+
+.text6_6{
+  font-family: sans-serif;
+  color: rgb(88, 88, 88);
+  font-weight: 600;
+  margin-left: 1110px;
+  margin-top: 15px;
+}
+
+.bell{
+  list-style-type: none;
+  width: 1590px;
+  border: solid;
+  margin-top: 80px;
+  margin-left: 140px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  padding-top: 25px;
+  padding-left: 30px;
+  padding-bottom: 25px;
+  background-color: #f7e5c5;
+  border-color: #f7e5c5;
+}
+
+
+.text7{
+  margin-left: 100px;
+  font-size: 25px;
+  margin-top: -50px;
+font-family: sans-serif;
+  font-weight: 600;
+}
+
+
+.uvedomleniya{
+  border: solid;
+  margin-left: 1200px;
+  font-size: 25px;
+  border-radius: 10px;
+  margin-top: -45px;
+  font-family: sans-serif;
+  font-weight: 600;
+  margin-right: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-color: #FE5C28;
+  color: white;
+  background-color: #FE5C28;
+  
+
+}
+.bell:active{
+  box-shadow: 5px 0px 15px 5px gray;
+}
+
+
+.news{
+    list-style-type: none;
+    margin-top: 70px;
+    margin-left: 140px;
+}
+
+.news1{
+font-size: 25px;
+font-weight: 600;
+}
+
+.street{
+    margin-left: -3px;
+}
+
+.street-text{
+    margin-left: 325px;
+    font-size: 25px;
+font-weight: 600;
+margin-top: -180px;
+}
+
+
+.street-text2{
+margin-left: 325px;
+font-size: 18px;
+margin-top: 10px;
+
+}
+
+.vector2{
+    margin-left: 325px;
+    margin-top: 10px;
+}
+
+.oclock{
+    margin-left: 355px;
+    margin-top: -30px;
+    color: rgb(95, 94, 94);
+}
+
+.meeting{
+    margin-left: -3px;
+    margin-top: 25px;
+}
+
+.meeting1{
+    margin-left: 325px;
+    font-size: 25px;
+font-weight: 600;
+margin-top: -180px;
+}
+
+
+.meeting2{
+    margin-left: 325px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.vector3{
+    margin-left: 325px;
+    margin-top: 10px;
+}
+
+
+.oclock2{
+    margin-left: 355px;
+    margin-top: -30px;
+    color: rgb(95, 94, 94);
+}
+
+.bus{
+    margin-left: -3px;
+    margin-top: 25px;
+}
+
+.bus1{
+    margin-left: 325px;
+    font-size: 25px;
+font-weight: 600;
+margin-top: -180px;
+}
+.bus2{
+    margin-left: 325px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.vector4{
+    margin-left: 325px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.oclock3{
+    margin-left: 355px;
+    margin-top: -30px;
+    color: rgb(95, 94, 94);
+}
+
+
+
+
+
+.news2{
+    list-style-type: none;
+    margin-top: 25px;
+    margin-left: 140px;
+}
+
+.news1{
+font-size: 25px;
+font-weight: 600;
+}
+
+.street{
+    margin-left: -3px;
+}
+
+.street-text{
+    margin-left: 325px;
+    font-size: 25px;
+font-weight: 600;
+margin-top: -180px;
+}
+
+
+.street-text2{
+margin-left: 325px;
+font-size: 18px;
+margin-top: 10px;
+
+}
+
+.vector2{
+    margin-left: 325px;
+    margin-top: 10px;
+}
+
+.oclock{
+    margin-left: 355px;
+    margin-top: -30px;
+    color: rgb(95, 94, 94);
+    font-family: sans-serif;
+}
+
+.meeting{
+    margin-left: -3px;
+    margin-top: 25px;
+}
+
+.meeting1{
+    margin-left: 325px;
+    font-size: 25px;
+font-weight: 600;
+margin-top: -180px;
+}
+
+
+.meeting2{
+    margin-left: 325px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.vector3{
+    margin-left: 325px;
+    margin-top: 10px;
+}
+
+
+.oclock2{
+    margin-left: 355px;
+    margin-top: -30px;
+    color: rgb(95, 94, 94);
+    font-family: sans-serif;
+}
+
+.bus{
+    margin-left: -3px;
+    margin-top: 25px;
+}
+
+.bus1{
+    margin-left: 325px;
+    font-size: 25px;
+font-weight: 600;
+margin-top: -180px;
+}
+.bus2{
+    margin-left: 325px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.vector4{
+    margin-left: 325px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.oclock3{
+    margin-left: 355px;
+    margin-top: -30px;
+    color: rgb(95, 94, 94);
+    font-family: sans-serif;
+}
+
+.with{
+    list-style: none;
+    margin-left: 1300px;
+    margin-top: -1170px;
+    border-style: none;
+    width:420px;
+background-color: whitesmoke;
+padding: 10px;
+}
+
+.victus{
+    
+    font-size: 25px;
+    font-weight: 600;  
+}
+
+.victus1{
+    font-size: 19px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.oclock4{
+margin-top: 20px;
+font-family: sans-serif;
+color: rgb(112, 107, 107);
+}
+
+.images{
+  margin-top: 25px;
+  margin-left: 0px;
+}
+
+.victus2{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.oclock5{
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: rgb(112, 107, 107);
+}
+
+.images1{
+  margin-top: 25px;
+  margin-left: 0px;
+}
+
+.victus3{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.oclock6{
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: rgb(112, 107, 107);
+}
+
+.images2{
+  margin-top: 25px;
+  margin-left: 0px;
+}
+
+.victus4{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.oclock7{
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: rgb(112, 107, 107);
+}
+
+.ucell{
+  margin-left: 1305px;
+  margin-top: 25px;
+}
+
+.rubik{
+  margin-left: 490px;
+  list-style-type: none;
+  margin-top: -20px;
+  
+}
+
+.news3{
+  margin-left: 52px;
+  margin-top: -45px;
+  font-size: 18px;
+  color: white;
+  font-weight: 500;
+}
+
+
+.telephone{
+  list-style-type: none;
+  margin-left: 140px;
+  margin-top: 100px;
+  border: solid;
+  width: 1560px;
+  background-color: whitesmoke;
+  border-color: whitesmoke;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  padding: 20px;
+  padding-top: 35px;
+  height: 214px;
+}
+
+.telephone1{
+  padding-left: 40px;
+  margin-top: -180px;
+}
+
+.blue{
+  color: #295093;
+  margin-left: 300px;
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: -200px;
+}
+
+.namangan20{
+  margin-left: 80px;
+  margin-top: -150px;
+}
+
+.namangan-text{
+  margin-left: 305px;
+  font-size:26px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+
+.google{
+  margin-left: 1150px;
+  margin-top: -105px;
+}
+
+.appstore{
+margin-left: 1370px;
+margin-top: -76px;
+}
+
+.information{
+  list-style: none;
+  margin-left: 130px;
+  margin-top: 30px;
+}
+
+.namangan23{
+
+  margin-top: -50px;
+  margin-left: 33px;
+}
+
+.liniya15{
+  margin-top: 40px;
+}
+
+.box5{
+  background-color:#295093;
+padding-top: 15px;
+margin-top: -25px;
+margin-left: -9.6px;
+width: 1903px;
+height: 400px;
+}
+
+.don{
+  color: white;
+  font-size: 21px;
+  margin-left: 580px;
+  margin-top: -30px;
+}
+
+.telegram5{
+  margin-left: 1450px;
+  margin-top: -100px;
+}
+
+.vector5{
+  margin-left: 1455px;
+  margin-top: -56px;
+}
+
+.telegram6{
+
+  margin-left: 1490px;
+  margin-top: -40px;
+}
+
+
+.information2{
+  color: white;
+margin-top: 70px;
+margin-left: 20px;
+font-size: 20px;
+}
+
+
+.sayt3{
+  color: white;
+  margin-top: 70px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.information3{
+  color: white;
+margin-top: 20px;
+margin-left: 20px;
+font-size: 20px;
+}
+
+.fish{
+list-style-type: none;
+margin-left: 800px;
+margin-top: -250px;
+color: white;
+font-size: 20px;
+}
+.fish1{
+  margin-top: 10px;
+}
+
+.fish2{
+  margin-top: 20px;
+}
+
+.fish3{
+  margin-top: 20px;
+}
+
+.fish4{
+  margin-top: 20px;
+}
+
+.white{
+  list-style-type: none;
+margin-left: 1200px;
+
+margin-top: -170px;
+color: white;
+font-size: 20px;
+}
+
+.red{
+  margin-top: 20px;
+}
+
+.green{
+  margin-top: 20px;
+}
+
+.orange{
+  margin-top: 20px;
+}
+
+
+
+
+

@@ -1,0 +1,584 @@
+*{
+margin: 0 auto;
+padding: 0;
+font-family:sans-serif;
+list-style: none;
+}
+
+body{
+    background-color: rgb(233, 195, 114);
+}
+
+
+
+.box{
+    margin-top: 250px;
+    margin-left: 500px;
+    border: solid;
+    width: 230px;
+    height: 300px;
+    padding: 50px;
+    background-color:rgb(228, 228, 228);
+    border-color: rgb(228,
+    228, 228);
+overflow: scroll;
+overflow-x:hidden;
+}
+
+
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-track{
+    background-color: rgb(228,
+    228, 228);;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: gray;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+.wallets{
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(78, 77, 77);
+}
+
+.images{
+    margin-left: 220px;
+    margin-top: -23px;
+    cursor: pointer;
+}
+
+
+.visa{
+    margin-top: 40px;
+    border: solid;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+    height: 120px;
+    width: 230px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    -webkit-transition: 0.2s ease;
+    -moz-transition: 0.2s ease;
+    -ms-transition: 0.2s ease;
+    -o-transition: 0.2s ease;
+}
+
+.visa:hover{
+    border-color: rgb(80, 80, 136);
+}
+
+.number{
+    margin-top: -60px;
+    margin-left: 10px;
+    font-size: 21px;
+    font-weight: 600;
+    color: rgb(109, 109, 109);
+    cursor: pointer;
+}
+
+
+
+.valid{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: rgb(109, 109, 109);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+.card{
+    margin-top: 40px;
+    border: solid;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+    width: 230px;
+    height: 120px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    -webkit-transition: 0.2s ease;
+    -moz-transition: 0.2s ease;
+    -ms-transition: 0.2s ease;
+    -o-transition: 0.2s ease
+}
+
+.card:hover{
+    border-color:  rgb(80, 80, 136);;
+}
+
+.number2{
+    margin-top: -60px;
+    margin-left: 10px;
+    font-size: 21px;
+    font-weight: 600;
+    color: rgb(109, 109, 109);
+    cursor: pointer;
+}
+
+
+
+.valid2{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: rgb(109, 109, 109);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+.card2{
+    margin-top: 40px;
+    border: solid;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+    width: 230px;
+    height: 120px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    -webkit-transition: 0.2s ease;
+    -moz-transition: 0.2s ease;
+    -ms-transition: 0.2s ease;
+    -o-transition: 0.2s ease
+}
+
+.card2:hover{
+    border-color:  rgb(80, 80, 136);;
+}
+
+.number3{
+    margin-top: -60px;
+    margin-left: 10px;
+    font-size: 21px;
+    font-weight: 600;
+    color: rgb(109, 109, 109);
+    cursor: pointer;
+}
+
+
+
+.valid3{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: rgb(109, 109, 109);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+.box2{
+    margin-top: -406px;
+    margin-left: 833px;
+    border: solid;
+    width: 470px;
+    height: 300px;
+    padding: 50px;
+    background-color:rgb(241, 241, 241);
+    border-color: whitesmoke;
+overflow: scroll;
+overflow-x:hidden;
+
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-track{
+    background-color: rgb(241, 241, 241);
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: gray;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+.current{
+    border: solid;
+    border-color:rgb(240, 240, 240) ;
+    border-bottom: 1px solid gray;
+    height: 70px;
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(59, 58, 58);
+    display: flex;
+
+}
+
+.number4{
+   margin-top: -73px; 
+    margin-left: 350px;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(59, 58, 58);
+}
+
+
+.number00{
+
+    margin-top: -30px;
+    margin-left: 412px;
+    font-size: 17px;
+    font-weight: 700;
+    color: rgb(59, 58, 58);
+}
+    
+
+.apple{
+    margin-top: 85px;
+    font-size: 22px;
+    margin-left: 60px;
+    font-weight: 600;
+}
+
+.minus{
+
+        border: solid;
+    
+        margin-right:434px;
+        height: 20px;
+        border-color: gray;
+        opacity: 0.6;
+        border-radius: 30px;
+        position: relative;
+        top: 120px;
+       
+}
+
+
+.electronics{
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+}
+
+
+
+.money{
+    margin-left: 410px;
+    font-size: 19px;
+margin-top: -30px;
+font-weight: 600;
+color:rgb(81, 81, 160) ;
+}
+
+.money00{
+    margin-left: 458px;
+    font-size: 15px;
+margin-top: -27px;
+font-weight: 600;
+color:rgb(81, 81, 160) ;
+}
+
+
+
+
+.plus{
+margin-top: -50px;
+        border: solid;
+    
+        margin-right:434px;
+        height: 20px;
+        border-color: gray;
+        opacity: 0.6;
+        border-radius: 30px;
+        position: relative;
+        top: 120px;
+       
+}
+
+.fundes{
+    margin-top: 85px;
+    font-size: 22px;
+    margin-left: 60px;
+    font-weight: 600;
+}
+
+
+.payment{
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+}
+
+.money1{
+    margin-left: 410px;
+    font-size: 19px;
+margin-top: -30px;
+font-weight: 600;
+color:rgb(130, 172, 69) ;
+}
+
+.money01{
+    margin-left: 458px;
+    font-size: 15px;
+margin-top: -27px;
+font-weight: 600;
+color: rgb(130, 172, 69);
+}
+
+
+
+
+
+
+
+
+
+.energy{
+    margin-top: 85px;
+    font-size: 22px;
+    margin-left: 60px;
+    font-weight: 600;
+}
+
+.minus1{
+
+    margin-top: -50px;
+        border: solid;
+    
+        margin-right:434px;
+        height: 20px;
+        border-color: gray;
+        opacity: 0.6;
+        border-radius: 30px;
+        position: relative;
+        top: 120px;
+       
+}
+
+
+.other{
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+}
+
+
+
+.money2{
+    margin-left: 410px;
+    font-size: 19px;
+margin-top: -30px;
+font-weight: 600;
+color:rgb(81, 81, 160) ;
+}
+
+.money02{
+    margin-left: 450px;
+    font-size: 15px;
+margin-top: -27px;
+font-weight: 600;
+color:rgb(81, 81, 160) ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.cinema{
+    margin-top: 85px;
+    font-size: 22px;
+    margin-left: 60px;
+    font-weight: 600;
+}
+
+.minus3{
+margin-top: -50px;
+        border: solid;
+    
+        margin-right:434px;
+        height: 20px;
+        border-color: gray;
+        opacity: 0.6;
+        border-radius: 30px;
+        position: relative;
+        top: 120px;
+       
+}
+
+
+.entertainment{
+    margin-left: 62px;
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+}
+
+
+
+.money5{
+    margin-left: 410px;
+    font-size: 19px;
+margin-top: -30px;
+font-weight: 600;
+color:rgb(81, 81, 160) ;
+}
+
+.money05{
+    margin-left: 450px;
+    font-size: 15px;
+margin-top: -27px;
+font-weight: 600;
+color:rgb(81, 81, 160) ;
+}
+
+
+
+
+.minus4{
+margin-top: -50px;
+        border: solid;
+    
+        margin-right:434px;
+        height: 20px;
+        border-color: gray;
+        opacity: 0.6;
+        border-radius: 30px;
+        position: relative;
+        top: 120px;
+       
+}
+
+.mcfood{
+    margin-top: 85px;
+    font-size: 22px;
+    margin-left: 60px;
+    font-weight: 600;
+}
+
+
+.cafes{
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+}
+
+.money6{
+    margin-left: 410px;
+    font-size: 19px;
+margin-top: -30px;
+font-weight: 600;
+color: rgb(81, 81, 160);
+}
+
+.money06{
+    margin-left: 450px;
+    font-size: 15px;
+margin-top: -27px;
+font-weight: 600;
+color: rgb(81, 81, 160);
+}
+
+
+
+
+
+
+
+
+
+.gas{
+    margin-top: 85px;
+    font-size: 22px;
+    margin-left: 60px;
+    font-weight: 600;
+}
+
+.minus5{
+
+    margin-top: -50px;
+        border: solid;
+    
+        margin-right:434px;
+        height: 20px;
+        border-color: gray;
+        opacity: 0.6;
+        border-radius: 30px;
+        position: relative;
+        top: 120px;
+       
+}
+
+
+.other1{
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+}
+
+
+
+.money7{
+    margin-left: 410px;
+    font-size: 19px;
+margin-top: -30px;
+font-weight: 600;
+color:rgb(81, 81, 160) ;
+}
+
+.money07{
+    margin-left: 450px;
+    font-size: 15px;
+margin-top: -27px;
+font-weight: 600;
+color:rgb(81, 81, 160) ;
+}
+
+
+
